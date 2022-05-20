@@ -1,0 +1,3 @@
+This document / scripts are for copy-paste into Visual Studio Core for testing a webpage for Minecraft servers.
+This document will be updating at all time for better work.
+This document is free to use, so don't worry about it.
